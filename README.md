@@ -1,4 +1,14 @@
 ### Hi there 👋
+My name is **Bruna** 🙆‍♀️ , I am Brazilian 🇧🇷 and I have a bachelor in Computer Engineering from Federal University of Sao Carlos.
+
+I am currently working as a Software Engineer @ Amazon 💻. But I also passionate and continuously learning about Artificial Intelligence and Bioinformatics.
+
+
+Please visit my [personal portfolio](http://bzamith.github.io/) to get overview of my recent projects and topics that I am studying.
+
+Also, feel free to reach out to me via my [LinkedIn profile](https://www.linkedin.com/in/bruna-zamith/) 💬
+
+See you 🔜!
 
 <!--
 **bzamith/bzamith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
