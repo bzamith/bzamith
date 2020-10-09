@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is **Bruna** 🙆‍♀️ , I am Brazilian 🇧🇷 and I have a bachelor degree in Computer Engineering from Federal University of Sao Carlos.
+My name is **Bruna** 🙆‍♀️ , I am Brazilian 🇧🇷  and I have a bachelor degree in Computer Engineering from Federal University of Sao Carlos.
 
 I am currently working as a Software Engineer @ Amazon 💻. But I am also passionate and continuously learning about Data Science and Bioinformatics.
 
