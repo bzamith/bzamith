@@ -1,10 +1,10 @@
 ### Hi there 👋
-My name is **Bruna** 🙆‍♀️ , I am Brazilian 🇧🇷 and I have a bachelor in Computer Engineering from Federal University of Sao Carlos.
+My name is **Bruna** 🙆‍♀️ , I am Brazilian 🇧🇷 and I have a bachelor degree in Computer Engineering from Federal University of Sao Carlos.
 
-I am currently working as a Software Engineer @ Amazon 💻. But I am also passionate and continuously learning about Artificial Intelligence and Bioinformatics.
+I am currently working as a Software Engineer @ Amazon 💻. But I am also passionate and continuously learning about Data Science and Bioinformatics.
 
 
-Please visit my [personal portfolio](http://bzamith.github.io/) to get overview of my recent projects and topics that I am studying.
+Please visit my [personal portfolio](http://bzamith.github.io/) to get an overview of my recent projects and topics that I am studying.
 
 Also, feel free to reach out to me via my [LinkedIn profile](https://www.linkedin.com/in/bruna-zamith/) 💬
 
