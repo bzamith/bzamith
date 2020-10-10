@@ -4,7 +4,7 @@ My name is **Bruna** 🙆‍♀️ , I am Brazilian 🇧🇷  and I have a bache
 I am currently working as a Software Engineer @ Amazon 💻. But I am also passionate and continuously learning about Data Science and Bioinformatics.
 
 
-Please visit my [personal portfolio](http://bzamith.github.io/) to get an overview of my recent projects and topics that I am studying.
+You can visit my [portfolio](http://bzamith.github.io/) to get an overview of my recent projects and topics that I am studying.
 
 Also, feel free to reach out to me via my [LinkedIn profile](https://www.linkedin.com/in/bruna-zamith/) 💬
 
