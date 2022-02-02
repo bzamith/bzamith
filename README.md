@@ -1,9 +1,9 @@
 ### Hi there 👋
-My name is **Bruna** 🙆‍♀️ , I am a BSc in Computer Engineering, working as a Software Engineer II at Amazon 💻 , in the International Technology Expansion team. 
+My name is **Bruna** 🙆‍♀️ , I'm a BSc in Computer Engineering and working as a Software Engineer II at Amazon 💻 , in the International Technology Expansion team. 
 
-Since 2021, I'm pursuing my Masters degree at [Federal University of Sao Carlos (UFSCar)](https://www.ufscar.br/) 🇧🇷 , working in the [Bioinformatics and Machine Learning group (BioMaL)](http://www.biomal.ufscar.br/). My research interests lie in the application of Machine Learning in the Natural Sciences 🌱.
+Since 2015, I've been developing research as part of the [Bioinformatics and Machine Learning group (BioMaL)](http://www.biomal.ufscar.br/), from [Federal University of Sao Carlos (UFSCar)](https://www.ufscar.br/) 🇧🇷 . I'm currently pursuing my Masters degree at this same group. 
 
-I am passionate and continuously learning about Data Science and Bioinformatics. Still, I am really looking forward to learning more about Computer Networks and Natural Computing.
+My research interests lie in the application of Machine Learning in Natural Sciences 🌱. Besides that, I am passionate and continuously learning about Data Science, Distributed Systems and Natural Computing. 
 
 You can visit my [portfolio](http://bzamith.github.io/) to get an overview of my recent projects and topics that I am studying.
 
