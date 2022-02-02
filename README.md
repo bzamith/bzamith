@@ -1,8 +1,9 @@
 ### Hi there 👋
-My name is **Bruna** 🙆‍♀️ , I am Brazilian 🇧🇷  and I have a bachelor degree in Computer Engineering from Federal University of Sao Carlos (UFSCar).
+My name is **Bruna** 🙆‍♀️ , I am a BSc in Computer Engineering, working as a Software Engineer II at Amazon 💻 , in the International Technology Expansion team. 
 
-I am currently working as a Software Engineer @ Amazon 💻, and pursuing my master degree in Artificial Intelligence @ UFSCar 📚. 
-I am passionate and continuously learning about Data Science and Bioinformatics.
+Since 2021, I'm pursuing my Masters degree at [Federal University of Sao Carlos (UFSCar)](https://www.ufscar.br/) 🇧🇷 , working in the [Bioinformatics and Machine Learning group (BioMaL)](http://www.biomal.ufscar.br/). My research interests lie in the application of Machine Learning in the Natural Sciences 🌱.
+
+I am passionate and continuously learning about Data Science and Bioinformatics. Still, I am really looking forward to learning more about Computer Networks and Natural Computing.
 
 You can visit my [portfolio](http://bzamith.github.io/) to get an overview of my recent projects and topics that I am studying.
 
