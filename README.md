@@ -3,7 +3,7 @@ My name is **Bruna** 🙆‍♀️ , I'm a BSc in Computer Engineering and worki
 
 Since 2015, I've been developing research as part of the [Bioinformatics and Machine Learning group (BioMaL)](http://www.biomal.ufscar.br/), from [Federal University of Sao Carlos (UFSCar)](https://www.ufscar.br/) 🇧🇷 . I'm currently pursuing my Masters degree at this same group. 
 
-My research interests lie in the application of Machine Learning in Natural Sciences 🌱. Besides that, I am passionate and continuously learning about Data Science, Distributed Systems and Natural Computing. 
+My research interests lie in the application of Machine Learning in Natural Sciences 🌱. Besides that, I am passionate and continuously learning about Software Engineering, Distributed Systems and Natural Computing. 
 
 You can visit my [portfolio](http://bzamith.github.io/) to get an overview of my recent projects and topics that I am studying.
 
