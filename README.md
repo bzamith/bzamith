@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is **Bruna** 🙆‍♀️ , I'm a BSc in Computer Engineering and working as a Software Engineer II at Amazon 💻 , in the International Technology Expansion team. 
+My name is **Bruna** 🙆‍♀️ , I'm a BSc in Computer Engineering and working as a Data Scientist II at Amazon 💻 , in the International Technology Expansion team. 
 
 Since 2015, I've been developing research as part of the [Bioinformatics and Machine Learning group (BioMaL)](http://www.biomal.ufscar.br/), from [Federal University of Sao Carlos (UFSCar)](https://www.ufscar.br/) 🇧🇷 . I'm currently pursuing my Masters degree at this same group. 
 
