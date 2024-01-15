@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is **Bruna** 🙆‍♀️ , I'm a BSc. in Computer Engineering, MSc. in Artificial Intelligence, and working as an Applied (Data) Scientist II at Amazon 💻 , in the Latam ML team. 
+My name is **Bruna** 🙆‍♀️ , I'm a BSc. in Computer Engineering, MSc. in Artificial Intelligence, and working as an Applied Data Scientist II at Amazon 💻 , in the Latam ML team. 
 
 Since 2015, I've been developing research as part of the [Bioinformatics and Machine Learning group (BioMaL)](http://www.biomal.ufscar.br/), from [Federal University of Sao Carlos (UFSCar)](https://www.ufscar.br/) 🇧🇷 . I've obtained my Masters degree at this same group. 
 
