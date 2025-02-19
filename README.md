@@ -1,7 +1,5 @@
 ### Hi there 👋
-My name is **Bruna** 🙆‍♀️ , I'm a BSc. in Computer Engineering, MSc. in Artificial Intelligence, and working as an Applied Data Scientist II at Amazon 💻 , in the Latam ML team. 
-
-Since 2015, I've been developing research as part of the [Bioinformatics and Machine Learning group (BioMaL)](http://www.biomal.ufscar.br/), from [Federal University of Sao Carlos (UFSCar)](https://www.ufscar.br/) 🇧🇷 . I've obtained my Masters degree at this same group. 
+My name is **Bruna** 🙆‍♀️ , I work as an Applied Data Scientist II at Amazon 💻 , in the Latam ML team. I am BSc. in Computer Engineering, MSc. in Artificial Intelligence, and I'm currently pursuing a PhD at the Federal University of Pernambuco (UFPE) 🇧🇷 in the field of Explainable AI (XAI) applied to Time Series. 
 
 My research interests lie in the application of Machine Learning in Natural Sciences 🌱. Besides that, I am passionate and continuously learning about Software Engineering, Distributed Systems and Natural Computing. 
 
