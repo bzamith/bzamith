@@ -1,4 +1,7 @@
 ### Hi there 👋
+[![Linkedin: Bruna Zamith](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruna-zamith/)](https://www.linkedin.com/in/bruna-zamith/)
+[![GitHub: @bzamith](https://img.shields.io/github/followers/bzamith?label=follow&style=social)](https://github.com/bzamith)
+
 My name is **Bruna** 🙆‍♀️ , I work as an Applied Data Scientist II at Amazon 💻 , in the Latam ML team. I am BSc. in Computer Engineering, MSc. in Artificial Intelligence, and I'm currently pursuing a PhD at the Federal University of Pernambuco (UFPE) 🇧🇷 in the field of Explainable AI (XAI) applied to Time Series. 
 
 My research interests lie in the application of Machine Learning in Natural Sciences 🌱. Besides that, I am passionate and continuously learning about Software Engineering, Distributed Systems and Natural Computing. 
